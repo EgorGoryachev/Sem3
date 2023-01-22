@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(42,19): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(43,19): warning C4244: инициализация: преобразование "const T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(76,40): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(76,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(84,57): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(84,42): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(85,38): warning C4305: аргумент: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(86,33): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\DVD_LOGO\Source.cpp(87,34): warning C4244: *=: преобразование "float" в "int", возможна потеря данных
+  DVD_LOGO.vcxproj -> C:\Users\gorya\Desktop\Infa_2\DVD\DVD_LOGO\x64\Debug\DVD_LOGO.exe
