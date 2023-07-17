@@ -1,0 +1,25 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (game))).vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Camera.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\gorya\Documents\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+D:\Infa_2\game)))\game)))\Camera.cpp(8,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Infa_2\game)))\game)))\Camera.cpp(15,20): warning C4305: =: усечение из "double" в "float"
+D:\Infa_2\game)))\game)))\Camera.cpp(18,21): warning C4305: =: усечение из "double" в "float"
+D:\Infa_2\game)))\game)))\Camera.cpp(21,20): warning C4305: =: усечение из "double" в "float"
+D:\Infa_2\game)))\game)))\Camera.cpp(22,27): warning C4305: -=: усечение из "double" в "float"
+D:\Infa_2\game)))\game)))\Camera.cpp(25,20): warning C4305: =: усечение из "double" в "float"
+D:\Infa_2\game)))\game)))\Camera.cpp(26,27): warning C4305: +=: усечение из "double" в "float"
+  maincpp.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\gorya\Documents\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+  World.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.20348.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\gorya\Documents\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+D:\Infa_2\game)))\game)))\Shapes.h(22,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Infa_2\game)))\game)))\Shapes.h(36,30): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Infa_2\game)))\game)))\Shapes.h(43,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Infa_2\game)))\game)))\World.cpp(37,35): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\Infa_2\game)))\game)))\World.cpp(37,28): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+  Создание кода...
+LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
+  game))).vcxproj -> D:\Infa_2\game)))\x64\Debug\3D.exe

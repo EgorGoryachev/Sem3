@@ -1,0 +1,4 @@
+C:\Users\gorya\Desktop\Infa_2\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.AssemblyReference.cache
+C:\Users\gorya\Desktop\Infa_2\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\gorya\Desktop\Infa_2\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.MyForm.resources
+C:\Users\gorya\Desktop\Infa_2\WinFormsCpp\WinFormsCpp\x64\Debug\WinFormsCpp.vcxproj.GenerateResource.cache

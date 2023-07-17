@@ -1,0 +1,24 @@
+﻿  maincpp.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: APIENTRY: изменение макроопределения
+C:\Users\gorya\Documents\glfw-3.3.8.bin.WIN64\include\GLFW\glfw3.h(123): message : см. предыдущее определение "APIENTRY"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(23,35): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(23,28): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(32,16): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(39,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(42,21): warning C4305: =: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(45,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(46,27): warning C4305: -=: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(49,20): warning C4305: =: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(50,27): warning C4305: +=: усечение из "double" в "float"
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(53,28): warning C4244: +=: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Users\gorya\Desktop\Infa_2\game)))\game)))\maincpp.cpp(54,28): warning C4244: +=: преобразование "double" в "FLOAT", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1094,5): error MSB6006: "link.exe" завершилась с кодом 1120.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwInit в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwTerminate в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwCreateWindow в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwWindowShouldClose в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwPollEvents в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwMakeContextCurrent в функции _main.
+maincpp.obj : error LNK2019: ссылка на неразрешенный внешний символ _glfwSwapBuffers в функции _main.
+C:\Users\gorya\Documents\glfw-3.3.8.bin.WIN64\lib-vc2022\glfw3.lib : warning LNK4272: тип компьютера библиотеки "x64" конфликтует с типом целевого компьютера "x86"
+C:\Users\gorya\Desktop\Infa_2\game)))\Debug\game))).exe : fatal error LNK1120: неразрешенных внешних элементов: 7
